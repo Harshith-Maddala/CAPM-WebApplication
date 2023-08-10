@@ -2,8 +2,8 @@
 
 import streamlit as st
 import pandas as pd
-#import yfinance as yf
-#import pandas_datareader.data as web
+import yfinance as yf
+import pandas_datareader.data as web
 import datetime
 import graph_functions
 # command to connect to streamlit --> python -m streamlit run CAPMmain.py

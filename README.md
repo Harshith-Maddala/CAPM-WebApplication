@@ -36,3 +36,7 @@ Certainly! Here's a revised version that sounds like documentation:
 
 ### 9. Displaying Beta Values:
    - Calculated beta values for selected stocks are presented in a clear and concise DataFrame for user reference.
+
+![image](https://github.com/Harshith-Maddala/CAPM-WebApplication/assets/122431759/4b755d5d-fac4-419a-aa48-dc88669344ae)
+
+![image](https://github.com/Harshith-Maddala/CAPM-WebApplication/assets/122431759/a3488ca2-63f8-4986-b690-8d852ad63c81)

@@ -36,7 +36,3 @@ Certainly! Here's a revised version that sounds like documentation:
 
 ### 9. Displaying Beta Values:
    - Calculated beta values for selected stocks are presented in a clear and concise DataFrame for user reference.
-
-### 10. CAPM Calculation:
-    - The Capital Asset Pricing Model (CAPM) is applied to estimate expected returns based on beta values, a specified risk-free rate, and the market portfolio return.
-

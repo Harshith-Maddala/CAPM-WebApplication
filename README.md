@@ -29,7 +29,7 @@ Certainly! Here's a revised version that sounds like documentation:
    - Streamlit is leveraged to showcase the head and tail of the DataFrame, providing users with a snapshot of the dataset.
 
 ### 7. Interactive Charts:
-   - Utilizing a custom module (`graph_functions`), interactive line charts are generated to visually represent stock prices.
+   - Utilizing a custom module, interactive line charts are generated to visually represent stock prices.
 
 ### 8. Beta and Alpha Calculation:
    - Daily returns are computed for each stock, and beta and alpha values are calculated to assess risk and performance.

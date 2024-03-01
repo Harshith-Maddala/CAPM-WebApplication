@@ -3,8 +3,6 @@ CAPM calculation along with Beta and Return for stocks using python and streamli
 Project was created in VisualStudioCode and CAPMmain.py is the main file.
 link to access th streamlit app - https://capm-webapplication-k9jrtfmu6hudlufdjiwkg4.streamlit.app/   and https://capm-webapplication-83gzkxp5tubkqnmazm3hw3.streamlit.app/
 
-Certainly! Here's a revised version that sounds like documentation:
-
 ---
 
 ## Streamlit CAPM Analysis Documentation
